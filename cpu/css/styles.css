@@ -1,0 +1,6 @@
+span.numprogress{  
+    position: absolute;
+    left: 50%;
+    font-size: 13px;
+    font-weight: bolder;
+}

@@ -1,0 +1,15 @@
+.gauge-text {
+    position: absolute;
+    top: 47%;
+    left: 85%;
+    right: 0;
+    text-align: center;
+    font-size: 2.2em;
+    font-weight: bold;
+    color: black;
+    font-family: 'Amaranth', sans-serif;
+}
+
+.gauge-parent {
+    position: relative;
+}
