@@ -7,12 +7,7 @@ This shows a webpage that can generate max CPU usage using intensive tasks by we
 Just load this page on a browser.
 
 ### How to use
-After it loads up, choose the amount of workers to spin up then click on submit. Alternatively, use the query params
-```
-workers: number // number of workers to spawn (default: no of logical processors reported by the JS engine)
-work: number   // amount of work (2 low - 30 high) (default: 14)
-headless: boolean   // autostarts the intensive tasks (default: false)
-```
+After it loads up, choose the amount of workers to spin up then click on submit.
 
 ### Dependencies
 
